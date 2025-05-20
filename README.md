@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Khanh 
 I'm a passionate developer specializing in full-stack web development, embedded systems, IT, and robotics.
 
-- 🔧 Prev. Software Developer Consultant at **NT Corin**
+- 🔧 Prev SDE Consultant at **NT Corin**
 - 💡 Developing **IoT** solutions with **ESP32**, **C++**, and sensor integrations  
 - 🌐 Building full-stack apps with **React.js**, **Express.js**, **Node.js**, and **PostgreSQL**  
 - 🧠 Always learning: web dev, systems programming, IT, and product design, and more
@@ -10,7 +10,7 @@ I'm a passionate developer specializing in full-stack web development, embedded 
 - Incoming Web Dev Fellow @ [CodePath](https://www.codepath.org/)
 - IT Pre-Apprentice @ [Genesys Works](https://genesysworks.org/)
 - Event Organizer @ [Houston Robotics Group](https://www.meetup.com/houstonroboticsgroup/)
-- Ion Student Amabassador @ [Ion Houston](https://iondistrict.com/)
+- Prev Ion Student Amabassador @ [Ion Houston](https://iondistrict.com/)
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/khanh-dev](https://www.linkedin.com/in/khanh-dev/)
