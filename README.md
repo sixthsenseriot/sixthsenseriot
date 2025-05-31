@@ -1,10 +1,11 @@
 ## 👋 Hi, I'm Khanh 
 I'm a passionate developer specializing in full-stack web development, embedded systems, IT, and robotics.
 
+- 🤖 Robotics Software Engineer at **OmniTek Solutions, LLC**
 - 🔧 Prev SDE Consultant at **NT Corin**
 - 💡 Developing **IoT** solutions with **ESP32**, **C++**, and sensor integrations  
 - 🌐 Building full-stack apps with **React.js**, **Express.js**, **Node.js**, and **PostgreSQL**  
-- 🧠 Always learning: web dev, systems programming, IT, and product design, and more
+- 🧠 Improving: web dev, systems programming, IT, and product design, and more
 
 ## 💼 Other Involvements
 - Incoming Web Dev Fellow @ [CodePath](https://www.codepath.org/)
