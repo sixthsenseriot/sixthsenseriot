@@ -5,7 +5,7 @@ I'm a passionate developer specializing in full-stack web development, embedded 
 - 🔧 Prev SDE Consultant at **NT Corin**
 - 💡 Developing **IoT** solutions with **ESP32**, **C++**, and sensor integrations  
 - 🌐 Building full-stack apps with **React.js**, **Express.js**, **Node.js**, and **PostgreSQL**  
-- 🧠 Improving: web dev, systems programming, IT, and product design, and more
+- 🧠 Improving on: web dev, systems programming, IT, and product design, and more
 
 ## 💼 Other Involvements
 - Incoming Web Dev Fellow @ [CodePath](https://www.codepath.org/)
