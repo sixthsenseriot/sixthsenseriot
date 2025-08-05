@@ -17,7 +17,9 @@ I'm a passionate developer specializing in full-stack web development, embedded 
 - LinkedIn: [linkedin.com/in/khanh-dev](https://www.linkedin.com/in/khanh-dev/)
 - Portfolio: [starchdev.com](https://starchdev.com/)
 
-![Website Walkthrough](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZua2QwanNwOHJpbjgxcWRkMW1rZzh6YWJnZWFvYzE2OWc4NDVwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMxhVib7quRwyZbZd3/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNwazVpcWYwZjkxbzRudzg3dTl4MmYxMWw1d3p0MXp6Y2lyZWFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/09lxP3HV57xA7Nwhz8/giphy.gif" alt="animated" />
+</p>
 
 <!--
 **sixthsenseriot/sixthsenseriot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
