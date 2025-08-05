@@ -9,8 +9,8 @@ I'm a passionate developer specializing in full-stack web development, embedded 
 
 ## 💼 Other Involvements
 - Intermediate Web Dev Student @ [CodePath](https://www.codepath.org/)
-- IT Pre-Apprentice @ [Genesys Works](https://genesysworks.org/)
 - Event Organizer @ [Houston Robotics Group](https://www.meetup.com/houstonroboticsgroup/)
+- Prev IT Pre-Apprentice @ [Genesys Works](https://genesysworks.org/)
 - Prev Ion Student Amabassador @ [Ion Houston](https://iondistrict.com/)
 
 ## 📫 Connect with Me
