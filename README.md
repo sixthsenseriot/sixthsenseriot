@@ -17,8 +17,8 @@ I'm a passionate developer specializing in full-stack web development, embedded 
 - LinkedIn: [linkedin.com/in/khanh-dev](https://www.linkedin.com/in/khanh-dev/)
 - Portfolio: [starchdev.com](https://starchdev.com/)
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNwazVpcWYwZjkxbzRudzg3dTl4MmYxMWw1d3p0MXp6Y2lyZWFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/09lxP3HV57xA7Nwhz8/giphy.gif" alt="animated" />
+<p align="">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J0M2M2a3ViN25heXBnbzhwdXR5OWhzbTdsem54M2I1a2tkcXRidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/09lxP3HV57xA7Nwhz8/giphy.gif" alt="animated" />
 </p>
 
 <!--
